@@ -38,7 +38,7 @@ int main()
                         cout << "Element not found" << endl;
                     break;
         }
-        cout << "Enter 1 for again 0 for exit" << endl;
+        cout << "Enter 1 for again 0 for exit";
         cin >> choice;
 
     }while(choice!=0);
